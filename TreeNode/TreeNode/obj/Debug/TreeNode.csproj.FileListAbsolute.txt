@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\bin\Debug\TreeNode.exe.config
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\bin\Debug\TreeNode.exe
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\bin\Debug\RomanLib.dll
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\bin\Debug\RomanLib.pdb
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\obj\Debug\TreeNode.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\obj\Debug\TreeNode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\obj\Debug\TreeNode.csproj.Up2Date
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\obj\Debug\TreeNode.exe
+C:\Users\User\Desktop\Уханев иМаслов\TreeNode\TreeNode\obj\Debug\TreeNode.pdb
